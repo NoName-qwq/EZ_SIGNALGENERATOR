@@ -94,6 +94,7 @@ int main(void)
   MX_TIM6_Init();
   /* USER CODE BEGIN 2 */
 // what the dog doing?
+//gugugaga!!!
   /* USER CODE END 2 */
 
   /* Infinite loop */
