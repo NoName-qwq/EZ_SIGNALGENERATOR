@@ -93,7 +93,7 @@ int main(void)
   MX_DAC_Init();
   MX_TIM6_Init();
   /* USER CODE BEGIN 2 */
-
+// what the dog doing?
   /* USER CODE END 2 */
 
   /* Infinite loop */
